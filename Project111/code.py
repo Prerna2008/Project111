@@ -1,4 +1,3 @@
-# python file 
 import plotly.figure_factory as ff 
 import statistics
 import random
